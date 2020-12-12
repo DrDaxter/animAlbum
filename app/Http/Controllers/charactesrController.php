@@ -13,7 +13,7 @@ class charactesrController extends Controller
      */
     public function index()
     {
-        //return view('index');
+        //return ;
     }
 
     /**

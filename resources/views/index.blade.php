@@ -26,7 +26,7 @@
               <h1 class="fw-light">Anim Album</h1>
               <p class="lead text-muted">Gather alla yours favorite anime characters and share with your friends :)</p>
               <p>
-                <a href="" class="btn btn-primary my-2">Lets begin</a>
+                <a href="{{url('/lets_stared')}}" class="btn btn-primary my-2">Lets begin</a>
               </p>
             </div>
           </div>

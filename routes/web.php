@@ -20,6 +20,7 @@ use App\Http\Controllers\indexController;
 });
  */
 Route::get('/',[indexController::class,'index']);
+Route::get('/lets_stared', [indexController::class, 'getIn']);
 
 
 Route::resource('/anim', charactesrController::class);

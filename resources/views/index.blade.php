@@ -18,13 +18,13 @@
       </div>
     </nav>
   </header>
-
+ 
     <main>
         <section class="py-5 text-center container">
           <div class="row py-lg-5">
             <div class="col-lg-6 col-md-8 mx-auto">
               <h1 class="fw-light">Anim Album</h1>
-              <p class="lead text-muted">Gather all yours favorite anime characters and share with your friends :)</p>
+              <p class="lead text-muted">Gather alla yours favorite anime characters and share with your friends :)</p>
               <p>
                 <a href="" class="btn btn-primary my-2">Lets begin</a>
               </p>

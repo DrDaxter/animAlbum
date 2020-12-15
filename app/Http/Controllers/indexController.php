@@ -12,6 +12,6 @@ class indexController extends Controller
     }
 
     public function getIn(){
-        return "You are about to star";
+        return view('login');
     }
 }

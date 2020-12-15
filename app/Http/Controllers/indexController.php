@@ -14,4 +14,6 @@ class indexController extends Controller
     public function getIn(){
         return view('login');
     }
+
+    
 }
